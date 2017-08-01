@@ -1,0 +1,8 @@
+change extensions.comnf as given file
+change include sip_custom.conf in sip.conf
+untar testAGI_REST.tar.gz and copy files to /var/lib/asterisk/agi-bin
+untar marketplace.tar.gz to /var/www/html/
+register phone to 1000 pwd =123
+call 111 then call will come to 1000
+
+call me if an any issue
